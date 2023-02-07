@@ -1,1 +1,1 @@
-My first readme
+This is our first scored git project at ALX.
